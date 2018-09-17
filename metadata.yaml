@@ -1,0 +1,35 @@
+_repo: Twenty-Two-Goblins-Translated-from-the-Sanskrit_52309
+_version: 0.0.1
+alternative_title: 22 Goblins
+contributor:
+  illustrator:
+    agent_name: Nahl, Perham Wilhelm
+    alias: Nahl, Perham W.
+    birthdate: 1869
+    gutenberg_agent_id: '46777'
+    url: http://www.gutenberg.org/2009/agents/46777
+  translator:
+    agent_name: Ryder, Arthur W. (Arthur William)
+    alias: Ryder, Arthur William
+    birthdate: 1877
+    deathdate: 1938
+    gutenberg_agent_id: '9679'
+    url: http://www.gutenberg.org/2009/agents/9679
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_W._Ryder
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52309'
+  lccn: '18010311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- India'
+- !lcsh 'Tales -- India'
+- !lcc 'PK'
+- GITenberg
+title: Twenty-Two Goblins. Translated from the Sanskrit
+url: http://www.gutenberg.org/ebooks/52309
